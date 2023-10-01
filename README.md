@@ -23,7 +23,7 @@ https://github.com/Faduma9/snake-client-
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn:
 
 
-3. **Run the Server**: Before you can play the game, ensure that the server-side is running. You can download and set up the server from [here](link-to-server-repo).
+3. **Run the Server**: Before you can play the game, ensure that the server-side is running. You can download and set up the server 
 
 4. **Start the Game**: Run the Snake Client using the following command:
 
