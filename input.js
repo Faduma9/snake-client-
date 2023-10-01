@@ -19,7 +19,7 @@ const handleUserInput = function (key) {
     process.exit();
 
   } if (key === 'w') {
-    //console.log("Sending Move: up");
+    console.log("Sending Move: up");
     connection.write("Move: up");
   
 
