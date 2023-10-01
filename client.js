@@ -22,8 +22,13 @@ const connect = function() {
           console.log("Server says:", data);
         }
       });
-
-    return conn;
+   // Register a "connect" event handler
+   conn.on("connect", () => {
+    console.log("Successfully connected to game server");
+    
+    // Send the "Name: ___" message to the server
+    conn.write("Name: SNK");
+});
 };
 
 module.exports = { connect };
