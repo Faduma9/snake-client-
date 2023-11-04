@@ -41,9 +41,10 @@ https://github.com/Faduma9/snake-client-
 Enjoy playing the Snake game with other players and have fun!
 
 ## Final Product
-
-![press 1 to Say "Hello!"](<Screenshot (12).png>)
 *Caption for the first screenshot.*
+![image](https://github.com/Faduma9/snake-client-/assets/97137981/046a3ac2-1e6e-477d-afd8-14b39fb5b6f4)
 
-![Second image shows using WASD movement to control the snake, & 2 for "Goodbye" ](<Screenshot (18).png>)
+
 *Caption for the second screenshot.*
+![image](https://github.com/Faduma9/snake-client-/assets/97137981/a9366957-7b15-433c-92c4-cc4a737fe129)
+
